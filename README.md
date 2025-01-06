@@ -9,3 +9,20 @@ Currently, two official plugins are available:
 
 
 Hosted Link :- https://bucolic-quokka-de26b6.netlify.app/
+
+
+# Project Directory Structure
+
+```plaintext
+└── MrinalGupta7890-Speech-Recognition/
+    ├── README.md
+    ├── index.html
+    ├── package.json
+    ├── vite.config.js
+    ├── public/
+    └── src/
+        ├── App.css
+        ├── App.jsx
+        ├── index.css
+        ├── main.jsx
+        └── assets/
